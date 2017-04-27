@@ -1,5 +1,5 @@
 Hello World
 
-CIT 281 user page 
+CIT 281 user page
 
-![Humble Kendrick](images/kendrickhumble.jpeg)
+![Kobe-invincible](/Users/tiagoperez/Documents/repos/images/kobe-invincible.png)
